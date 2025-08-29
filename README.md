@@ -1,4 +1,10 @@
-## Hi there 👋
+## Meu nome é Paulo Monteiro Jr
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![My SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+PYTHON,
+SQL
 
 <!--
 **pjunior77/pjunior77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
